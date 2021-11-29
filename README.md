@@ -2,7 +2,7 @@
 
 used for "Guide to the Git Underground" merge conflict resolution example
 
-In this repo, we will have a bunch of Widgets. 
+In this repo, we will have a bunch of Doodads. 
 
-In fact there will be 24.3 Widgets, exactly.
+In fact there will be 24.3 Doodads, exactly.
 
